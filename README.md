@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on arduino programmes
 - 📫 How to reach me - dsshaan05@gmail.com
+- 📚 Preparing NEET (12th) (still into cs coz m a psychopath)
 
 <!---
 divyansh-singh-77/divyansh-singh-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
