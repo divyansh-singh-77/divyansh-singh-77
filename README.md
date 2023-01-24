@@ -8,7 +8,6 @@
 - 💕 Yeah! Into someone ε(´｡•᎑•`)っ 
 - 📍 Kanpur, UP, India
 - Discord- !CG#6283
-- 
 
 <!---
 divyansh-singh-77/divyansh-singh-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
